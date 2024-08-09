@@ -20,6 +20,7 @@ Thank you for watching my development.
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic)
 ![C#](https://img.shields.io/badge/-C%23-blue.svg)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic)
 
 ### Framework / Library:
 
@@ -29,7 +30,8 @@ Thank you for watching my development.
 
 ### IDE / Editor
 
-![VSCode](https://img.shields.io/badge/-VisualStudioCode-007ACC.svg?logo=visualstudiocode&style=plastic)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-BE95C8.svg?logo=visual-studio-code&style=flat)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-BE95C8.svg?logo=visualstudiocode&style=plastic)
 ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine5-313131.svg?logo=epicgames&style=plastic)
 ![Unity](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic)
