@@ -13,7 +13,7 @@ Thank you for watching my development.
 ### Language:
 
 ![JavaScript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6.svg?logo=typescript&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
