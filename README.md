@@ -22,6 +22,7 @@ Thank you for watching my development.
 ![C#](https://img.shields.io/badge/-C%23-blue.svg)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic)
 
+
 ### Framework / Library:
 
 ![React](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat)
@@ -29,7 +30,8 @@ Thank you for watching my development.
 ![threejs](https://img.shields.io/badge/-threejs-blue.svg)
 ![Aframe](https://img.shields.io/badge/-Aframe-red.svg)
 ![Shapespark](https://img.shields.io/badge/-Shapespark-informational.svg)
-
+![.NET](https://img.shields.io/badge/-.NET%20Framework-blueviolet.svg?logo=.NET&style=plastic)
+![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat)
 
 
 ### IDE / Editor
