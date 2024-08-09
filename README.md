@@ -28,6 +28,7 @@ Thank you for watching my development.
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat)
 ![threejs](https://img.shields.io/badge/-threejs-blue.svg)
 ![Aframe](https://img.shields.io/badge/-Aframe-red.svg)
+![Shapespark](https://img.shields.io/badge/-Shapespark-informational.svg)
 
 
 
