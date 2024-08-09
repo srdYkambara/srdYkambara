@@ -18,8 +18,8 @@ Thank you for watching my development.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![C++](https://img.shields.io/badge/-C++-#00599C.svg?logo=cplusplus&style=flat)
-![C#]()
+![C++](https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic)
+![C#](https://img.shields.io/badge/-C#-00599C.svg?style=plastic)
 
 ### Framework / Library:
 
