@@ -1,6 +1,8 @@
 # Profile
 
-I am an XR content engineer mainly in the architectural field.
+XR Application Engineer mainly in the Architectural Field.
+
+[![github](https://img.shields.io/github/followers/srdYkambara?label=Follow%20%40teitei-tk&style=social)](https://github.com/srdYkambara)
 
 
 
