@@ -30,5 +30,5 @@ Thank you for watching my development.
 ### IDE / Editor
 
 ![VSCode](https://img.shields.io/badge/-VisualStudioCode-007ACC.svg?logo=visualstudiocode&style=plastic)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-EBABFF.svg?logo=visualstudiocode&style=plastic)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-BE95C8.svg?logo=visualstudiocode&style=plastic)
 ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine5-313131.svg?logo=epicgames&style=plastic)
