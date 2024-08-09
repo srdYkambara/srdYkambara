@@ -2,6 +2,8 @@
 
 XR Application Engineer mainly in the Architectural Field.
 
+Thank you for watching my development.
+
 [![github](https://img.shields.io/github/followers/srdYkambara?label=Follow%20%40srdYkambara&style=social)](https://github.com/srdYkambara)
 
 
