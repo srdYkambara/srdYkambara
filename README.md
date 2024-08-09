@@ -1,16 +1,15 @@
-## Hi there 👋
+# Profile
 
-<!--
-**srdYkambara/srdYkambara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an XR content engineer mainly in the architectural field.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Skills
+
+![JavaScript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat)
+![React](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
+
