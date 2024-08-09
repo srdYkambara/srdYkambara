@@ -19,7 +19,7 @@ Thank you for watching my development.
 ![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic)
-![C#](https://img.shields.io/badge/-C#-00599C.svg?logo=sharp&style=plastic)
+![C#](https://img.shields.io/badge/-C#-00599C.svg)
 
 ### Framework / Library:
 
