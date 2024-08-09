@@ -16,8 +16,8 @@ Thank you for watching my development.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
-![PHP]()
-![Python]()
+![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![C++]()
 ![C#]()
 
