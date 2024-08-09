@@ -32,6 +32,5 @@ Thank you for watching my development.
 
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-BE95C8.svg?logo=visual-studio-code&style=flat)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-BE95C8.svg?logo=visualstudiocode&style=plastic)
 ![UnrealEngine5](https://img.shields.io/badge/-UnrealEngine5-313131.svg?logo=epicgames&style=plastic)
 ![Unity](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic)
